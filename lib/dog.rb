@@ -13,7 +13,7 @@ class Dog
   end 
   
   def save.all 
-    @save
+    @all 
   end 
   
   def name 
